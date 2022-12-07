@@ -6,4 +6,7 @@
 - gunakan visible private, jika ingin repo tidak dapat terlihat oleh orang lain
 - klik create repository
 
-*** 
+*** membuat file ***
+- isikan nama file (bisa menggunakan format extension apapun)
+- klik enter, lalu kita bisa isikan 
+
