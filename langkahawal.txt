@@ -1,0 +1,9 @@
+*** Belajar Github ***
+# # # SIGN UP # # #
+- sign up -> email (pastikan gunakan email yang belum pernah terdaftar)
+- create folder/repository baru kalian
+- gunakan visible public, jika ingin repo kita dapat dilihat oleh orang lain
+- gunakan visible private, jika ingin repo tidak dapat terlihat oleh orang lain
+- klik create repository
+
+*** 
