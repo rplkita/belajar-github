@@ -8,5 +8,10 @@
 
 *** membuat file ***
 - isikan nama file (bisa menggunakan format extension apapun)
-- klik enter, lalu kita bisa isikan 
+- menuliskan isi dari file tersebut
+- berikan nama commit yang sesuai
+- commit changes
+
+*** lakukan branching / percabangan commit dari main/master branch ***
+- terdapat 2 cara
 
